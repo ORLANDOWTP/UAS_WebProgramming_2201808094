@@ -1,0 +1,12 @@
+
+.text {
+    display: block;
+    width: 450px;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+  }
+
+  img {
+    width: 300px;
+    height: auto;
+  }
